@@ -20,7 +20,8 @@ curl -XPUT localhost:9200/_river/dianping_river/_meta -d '
             "appKey" : "xxx",
             "secret" : "xxx"
         },
-        "appType" : "deal"
+        "appType" : "deal",
+        "city" : "xxx"
     },
     "index" : {
         "index" : "my_dianping_river",
