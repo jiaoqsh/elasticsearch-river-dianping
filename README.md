@@ -1,5 +1,4 @@
-## elasticsearch-river-dianping
------------
+##elasticsearch-river-dianping
 The dianping river indexes [dianping](http://www.dianping.com/) open api data. 
 
 install the plugin, run:
